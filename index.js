@@ -52,54 +52,54 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $("#contenido").load('Contenido/inicio.html');
+    $("#contenido").load('inicio.html');
 });
 
 $(document).ready(function () {
     $("#btninicio").click(function (event) {
-        $("#contenido").load('Contenido/inicio.html');
+        $("#contenido").load('inicio.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btnjustificacion").click(function (event) {
-        $("#contenido").load('Contenido/justificacion.html');
+        $("#contenido").load('justificacion.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btnmetodologia").click(function (event) {
-        $("#contenido").load('Contenido/metodologia.html');
+        $("#contenido").load('metodologia.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btnmodulos").click(function (event) {
-        $("#contenido").load('Contenido/modulos.html');
+        $("#contenido").load('modulos.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btnobjetivo").click(function (event) {
-        $("#contenido").load('Contenido/objetivo.html');
+        $("#contenido").load('objetivo.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btntecnologia").click(function (event) {
-        $("#contenido").load('Contenido/tecnologia.html');
+        $("#contenido").load('tecnologia.html');
     });
 });
 
 
 $(document).ready(function () {
     $("#btnvistas").click(function (event) {
-        $("#contenido").load('Contenido/vistas.html');
+        $("#contenido").load('vistas.html');
     });
 });
 
